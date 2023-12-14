@@ -13,8 +13,6 @@ The school internship commenced from <strong>March 2024 to July 2024</strong>, s
 </div>
       <div className="header-container">
       
-      {/* <img src="path-to-your-image.jpg" alt="ProfilePicture" /> */}
-
 <div className="header-container-left">
       <p><strong>Tel: </strong> +65 80675509</p>
       <p><strong>GitHub: </strong>  https://github.com/wandadadada </p>

@@ -1,9 +1,7 @@
-import logo from './logo.svg';
 import './App.css';
 
 import React from 'react';
 import Header from './components/header';
-import AboutMe from './components/AboutMe';
 import Experience from './components/Experience';
 import Education from './components/Education';
 import Skills from './components/Skills';
@@ -17,20 +15,16 @@ function App() {
     <div className="App">
       <Header />
       <div className="container">
-
         <div className="right-column">
           <p>--------------------------------------------------------------------------------------------------------</p>
           <Education />
           <p>--------------------------------------------------------------------------------------------------------</p>
           <Skills />
           <p>--------------------------------------------------------------------------------------------------------</p>
-
           <Projects />
           <p>--------------------------------------------------------------------------------------------------------</p>
-
           <Experience />
           <p>--------------------------------------------------------------------------------------------------------</p>
-
           <Certifications />
           <Footer />
         </div></div>

@@ -25,10 +25,8 @@ const Experience = () => {
           </li>
           <li>Motivation in English learning for both adult and teenage learner.
           </li>
-          {/* Add other points */}
         </ul>
       </div>
-      {/* Repeat for other positions */}
     </div>
   );
 };

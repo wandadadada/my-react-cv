@@ -21,7 +21,7 @@ The school internship commenced from <strong>March 2024 to July 2024</strong>, s
       </div>
       <div className="header-container-right">
       <p><strong>Email:</strong> wandawang1028@gmail.com</p>
-      <p><strong>LinkedIn: </strong><a src="www.linkedin.com/in/wang-wanda">Link to my LinkedIn Profile</a></p>
+      <p><strong>LinkedIn: </strong><a href="www.linkedin.com/in/wang-wanda">Link to my LinkedIn Profile</a></p>
       </div>
       </div>
     </header>

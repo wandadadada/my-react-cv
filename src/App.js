@@ -12,6 +12,7 @@ import Footer from './components/Footer';
 
 function App() {
   return (
+    <div class="fancy-background">
     <div className="App">
       <Header />
       <div className="container">
@@ -28,7 +29,7 @@ function App() {
           <Certifications />
           <Footer />
         </div></div>
-    </div>
+        </div>    </div>
   );
 }
 

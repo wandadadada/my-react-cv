@@ -43,7 +43,7 @@
   padding: 20px;
   font-family: 'Arial', sans-serif;
   color: rgb(4, 4, 4);
-  background-color: bisque;
+  background-color: rgba(255, 228, 196, 0.783);
 }
 
 .header-intro{
@@ -118,3 +118,20 @@ header img {
   }
 } */
 
+.fancy-background {
+  background: linear-gradient(45deg, rgb(0, 206, 110) 50%, rgb(165, 162, 4) 59%, #500af5 100%);
+  background-size: 400% 400%;
+  animation: gradientBG 10s ease infinite;
+}
+
+@keyframes gradientBG {
+  0% {
+    background-position: 0% 30%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}

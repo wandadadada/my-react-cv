@@ -20,8 +20,8 @@ The school internship commenced from <strong>March 2024 to July 2024</strong>, s
       <p><strong>GitHub: </strong>  https://github.com/wandadadada </p>
       </div>
       <div className="header-container-right">
-      <p><strong>Email:</strong> <a href="wandawang1028@gmail.com">My Gmail</a></p>
-      <p><strong>LinkedIn: </strong><a href="www.linkedin.com/in/wang-wanda">Link to my LinkedIn Profile</a></p>
+      <p><strong>Email:</strong> wandawang1028@gmail.com</p>
+      <p><strong>LinkedIn: </strong><a src="www.linkedin.com/in/wang-wanda">Link to my LinkedIn Profile</a></p>
       </div>
       </div>
     </header>
